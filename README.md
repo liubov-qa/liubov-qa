@@ -80,6 +80,7 @@
 
 ## 🎒 Образование
 [<img src="/diplom qa.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/liubov-qa/liubov-qa/refs/heads/main/diplom%20qa.png)
+[<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/liubov-qa/liubov-qa/refs/heads/main/stepik.png)
 
 <br>
 <br>
