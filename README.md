@@ -86,6 +86,6 @@
 <br>
 
 ## 🤝 Контакт
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/QA_Liubov)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Liubov_tuk)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
